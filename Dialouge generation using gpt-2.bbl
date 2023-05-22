@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{attention}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez, L.~u.
+  Kaiser, and I.~Polosukhin, ``Attention is all you need,'' in {\em Advances in
+  Neural Information Processing Systems} (I.~Guyon, U.~V. Luxburg, S.~Bengio,
+  H.~Wallach, R.~Fergus, S.~Vishwanathan, and R.~Garnett, eds.), vol.~30,
+  Curran Associates, Inc., 2017.
+
+\bibitem{Gpt-2_text}
+Y.~Qu, P.~Liu, W.~Song, L.~Liu, and M.~Cheng, ``A text generation and
+  prediction system: Pre-training on new corpora using bert and gpt-2,'' in
+  {\em 2020 IEEE 10th International Conference on Electronics Information and
+  Emergency Communication (ICEIEC)}, pp.~323--326, 2020.
+
+\bibitem{emotion}
+J.~Casas, S.~Torche, K.~Daher, E.~Mugellini, and O.~A. Khaled, ``Emotional
+  paraphrasing using pre-trained language models,'' in {\em 2021 9th
+  International Conference on Affective Computing and Intelligent Interaction
+  Workshops and Demos (ACIIW)}, pp.~01--07, 2021.
+
+\bibitem{por}
+E.~T.~R. Schneider, J.~V.~A. de~Souza, Y.~B. Gumiel, C.~Moro, and E.~C.
+  Paraiso, ``A gpt-2 language model for biomedical texts in portuguese,'' in
+  {\em 2021 IEEE 34th International Symposium on Computer-Based Medical Systems
+  (CBMS)}, pp.~474--479, 2021.
+
+\end{thebibliography}
